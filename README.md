@@ -2,9 +2,9 @@
 ## Hi there 👋 I'm V E Z A
 
   <div 
-  <a href="https://github.com/samfreitasxs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samfreitasxs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samfreitasxs&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/fckveza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fckveza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fckveza&layout=compact&langs_count=7&theme=dracula"/>
 </div
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Samuel Freitas">
@@ -45,4 +45,4 @@
 [email]: mailto:samuel.sfdf@gmail.com
 
 
-![Snake animation](https://github.com/samfreitasxs/samfreitasxs/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fckveza/fckveza/blob/output/github-contribution-grid-snake.svg)
