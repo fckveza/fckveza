@@ -48,9 +48,3 @@
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/fckveza/fckveza/refs/heads/master/github-contribution-grid-snake-dark.svg)
-
-<br />
-<br />
-
-
-![Snake animation](https://raw.githubusercontent.com/fckveza/fckveza/refs/heads/master/github-contribution-grid-snake.svg)
