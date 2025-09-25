@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/fckveza/fckveza/main/assets/coding.gif" width="300"/>
 
-### About Me
+### Me
 - 👨‍💻 Fullstack developerLiving in **Malang, East Java – Indonesia**  
 - 💙 Passionate about **Golang**, but also experienced with **TypeScript, Python, and Dart**  
 - 🌐 Check out my project: [sosmedboost.com](https://sosmedboost.com)  
