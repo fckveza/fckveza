@@ -1,13 +1,4 @@
-
-## Hi there 👋 I'm V E Z A
-
-  <div 
-  <a href="https://github.com/fckveza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fckveza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fckveza&layout=compact&langs_count=7&theme=dracula"/>
-</div
-
-## Hi there 👋 I'm Veza  
+## Hi there 👋 I'm Veza
 
 <img align="right" src="https://raw.githubusercontent.com/fckveza/fckveza/main/assets/coding.gif" width="300"/>
 
