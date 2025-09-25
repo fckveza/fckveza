@@ -47,10 +47,10 @@
 
 ---
 
-![Snake animation](https://github.com/fckveza/fckveza/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/fckveza/fckveza/refs/heads/master/github-contribution-grid-snake-dark.svg)
 
 <br />
 <br />
 
 
-![Snake animation](https://github.com/fckveza/fckveza/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/fckveza/fckveza/refs/heads/master/github-contribution-grid-snake.svg)
