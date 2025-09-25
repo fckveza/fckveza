@@ -2,10 +2,9 @@
 
 <img align="right" src="https://raw.githubusercontent.com/fckveza/fckveza/main/assets/coding.gif" width="300"/>
 
-### 🌏 About Me
-- 👨‍💻 Fullstack developer from **Malang, East Java – Indonesia**  
+### About Me
+- 👨‍💻 Fullstack developerLiving in **Malang, East Java – Indonesia**  
 - 💙 Passionate about **Golang**, but also experienced with **TypeScript, Python, and Dart**  
-- 🤝 Leading a small dev team building scalable apps  
 - 🌐 Check out my project: [sosmedboost.com](https://sosmedboost.com)  
 
 ---
@@ -19,9 +18,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
 </p>
+
 
 ---
 
@@ -36,8 +41,8 @@
 ### 🤝 Connect with Me  
 <p align="left">
   <a href="https://sosmedboost.com" target="_blank"><img src="https://img.shields.io/badge/Website-sosmedboost.com-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-me-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Veza-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:vezamroni@gmail"><img src="https://img.shields.io/badge/Email-me-blue?style=flat-square&logo=gmail"></a>
+  <a href="https:/www.instagram.com/fckveza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-HMTYVEZA-blue?style=flat-square&logo=instagram"></a>
 </p>
 
 ---
@@ -46,10 +51,6 @@
 
 <br />
 <br />
-
-[instagram]: https://www.instagram.com/samucathecoder/
-[linkedin]: https://www.linkedin.com/in/samuelfreitass/
-[email]: mailto:samuel.sfdf@gmail.com
 
 
 ![Snake animation](https://github.com/fckveza/fckveza/blob/output/github-contribution-grid-snake.svg)
