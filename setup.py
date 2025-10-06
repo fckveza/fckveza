@@ -4,11 +4,10 @@ setup(
   packages = ['fckveza'],   # Chose the same as "name"
   version = '1.3',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
-  description = 'FOR HAPPY IN LINE',   # Give a short description about your library
-  author = 'FCK VEZA',                   # Type in your name
-  author_email = 'vezamroni@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/vezamroni/fckveza',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/vezamroni/fckveza/archive/pypi-0_1_3.tar.gz',    # I explain this later on
+  description = '',   # Give a short description about your library
+  author = 'FCKVEZA',                   # Type in your name
+  url = 'https://github.com/fckveza/fckveza',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/fckveza/fckveza/archive/pypi-0_1_3.tar.gz',    # I explain this later on
   keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
