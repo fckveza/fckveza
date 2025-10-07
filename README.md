@@ -1,4 +1,6 @@
-## I'm VEZA, a full-time full-stack freelance developer 👨‍💻 working remotely since 2017
+## I'm VEZA
+
+### A full-time full-stack freelance developer 👨‍💻 working remotely since 2017.
 
 <img align="right" src="https://raw.githubusercontent.com/fckveza/fckveza/main/assets/coding.gif" width="300"/>
 
