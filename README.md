@@ -7,7 +7,7 @@
 
 - 👨‍💻 Fullstack developer, Living in **Malang, East Java – Indonesia**  
 - 💙 Passionate about **Golang**, but also experienced with **TypeScript, Python, and Dart**  
-- 🌐 Check out my project: [sosmedboost.com](https://sosmedboost.com)  
+- 🌐 Check out my project: [Vague Chat](https://lnkd.in/gbJyjVQ6)  
 
 <!-- ---
 
